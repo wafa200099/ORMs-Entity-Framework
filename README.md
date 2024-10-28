@@ -9,11 +9,7 @@ This repository hosts a project that demonstrates the use of Object-Relational M
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
